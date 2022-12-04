@@ -1,6 +1,6 @@
 #include <iostream>
 
-//it's a kind of game like Hangman. Some type a word and other have to guess in 6 attempts.
+//it's a kind of game like Hangman. Someone type a word and other have to guess in 6 attempts.
 
 using namespace std;
 
