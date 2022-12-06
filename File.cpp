@@ -39,6 +39,7 @@ int main(){
 
     fstream ptr;
 
+    //to concat use ios::app;
     ptr.open("testing.txt", ios::out);
 
     ptr << "not today\n";
