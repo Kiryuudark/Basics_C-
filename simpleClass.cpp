@@ -1,5 +1,7 @@
 #include <iostream>
 
+//Using classes, implementing functions and using his resources.
+
 using namespace std;
 
 class Drugs {
