@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
 
-    Doll *boneca = new Doll(3);
+    Doll *boneca = new Doll(7);
 
     boneca->show_dress();
 
