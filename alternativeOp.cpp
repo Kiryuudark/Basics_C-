@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-//at this function'd iplement auto and static. 
+//at this function'd implement auto and static. 
 
 using namespace std;
 
