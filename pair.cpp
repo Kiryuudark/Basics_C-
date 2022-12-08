@@ -2,6 +2,8 @@
 #include <utility>
 #include <vector>
 
+// using utility and vector to make pairs inside vector;
+
 using namespace std;
 
 int main (){
