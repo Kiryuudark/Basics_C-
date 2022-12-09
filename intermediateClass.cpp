@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//implement some class functions
+
 class Vehicle {
     private:
         const char* _name;
